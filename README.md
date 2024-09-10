@@ -1,2 +1,2 @@
-# Frontend_JavaScript_Task1
-Setting Up the Website Structure
+# Frontend_JavaScript_Task2
+Task Instructions
