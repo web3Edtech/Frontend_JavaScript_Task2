@@ -1,2 +1,2 @@
 # Frontend_JavaScript_Task2
-Task Instructions
+Dynamic Content Creation for a Profile Page
